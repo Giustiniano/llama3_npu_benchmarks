@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import math
+from helpers.data_helpers import get_stats_per_prompt
 
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
