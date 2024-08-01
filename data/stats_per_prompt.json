@@ -1,0 +1,30 @@
+{
+    "How are you? Please keep your answer short and on point\n": {
+        "avg_tokens_count": 28.75,
+        "avg_tokens_per_second": 1.7110660044020252
+    },
+    "Is 2 a prime number? Please keep your answer short and on point": {
+        "avg_tokens_per_second": 1.8732412838979404,
+        "avg_tokens_count": 37.25
+    },
+    "Is Zaire a country? Please keep your answer short and on point\n": {
+        "avg_tokens_per_second": 1.9139162755097656,
+        "avg_tokens_count": 31.5
+    },
+    "Why is the sky blue? Please keep your answer short and on point\n": {
+        "avg_tokens_per_second": 2.0810041337653598,
+        "avg_tokens_count": 52.0
+    },
+    "What are the main components of a transformer neural network architecture? Please keep your answer short and on point\n": {
+        "avg_tokens_per_second": 2.014628054038705,
+        "avg_tokens_count": 101.25
+    },
+    "Is Rome a capital city? Please keep your answer short and on point\n": {
+        "avg_tokens_per_second": 1.967329844616272,
+        "avg_tokens_count": 14.5
+    },
+    "Who was Lee Kuan Yew? Only answer with the most important pointst\n": {
+        "avg_tokens_per_second": 1.9490438939030659,
+        "avg_tokens_count": 161.25
+    }
+}
