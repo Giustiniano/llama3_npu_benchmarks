@@ -12,5 +12,5 @@ def get_stats_per_prompt():
     """
 
     # Instead of a CSV on disk, you could read from an HTTP endpoint here too.
-    DATA_FILENAME = Path(__file__).parent/'data/stats_per_prompt.json'
+    DATA_FILENAME = Path(__file__).parent.parent/'data/stats_per_prompt.json'
     return pd.read_json(DATA_FILENAME)
