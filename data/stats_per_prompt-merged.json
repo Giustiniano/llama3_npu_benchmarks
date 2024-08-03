@@ -1,0 +1,50 @@
+{
+    "How are you? Please keep your answer short and on point\n":{
+        "avg_tokens_count":28.75,
+        "avg_tokens_per_second":1.7110660044,
+        "avg_tokens_per_second_battery":1.5115889524,
+        "avg_tokens_count_battery":28.5,
+        "avg_battery_consumption_mWh":107.5,
+        "avg_mWh_per_token":3.7719298246
+    },
+    "Is 2 a prime number? Please keep your answer short and on point\n":{
+        "avg_tokens_count":37.25,
+        "avg_tokens_per_second":1.8732412839,
+        "avg_tokens_per_second_battery":1.1997548091,
+        "avg_tokens_count_battery":33.75,
+        "avg_battery_consumption_mWh":40.0,
+        "avg_mWh_per_token":1.1851851852
+    },
+    "Is Zaire a country? Please keep your answer short and on point\n":{
+        "avg_tokens_count":31.5,
+        "avg_tokens_per_second":1.9139162755,
+        "avg_tokens_per_second_battery":1.3861570536,
+        "avg_tokens_count_battery":34.75,
+        "avg_battery_consumption_mWh":152.5,
+        "avg_mWh_per_token":4.3884892086
+    },
+    "Why is the sky blue? Please keep your answer short and on point\n":{
+        "avg_tokens_count":52.0,
+        "avg_tokens_per_second":2.0810041338,
+        "avg_tokens_per_second_battery":1.4058528241,
+        "avg_tokens_count_battery":54.0,
+        "avg_battery_consumption_mWh":52.5,
+        "avg_mWh_per_token":0.9722222222
+    },
+    "What are the main components of a transformer neural network architecture? Please keep your answer short and on point\n":{
+        "avg_tokens_count":101.25,
+        "avg_tokens_per_second":2.014628054,
+        "avg_tokens_per_second_battery":1.3427867149,
+        "avg_tokens_count_battery":107.25,
+        "avg_battery_consumption_mWh":560.0,
+        "avg_mWh_per_token":5.2214452214
+    },
+    "Is Rome a capital city? Please keep your answer short and on point\n":{
+        "avg_tokens_count":14.5,
+        "avg_tokens_per_second":1.9673298446,
+        "avg_tokens_per_second_battery":1.3306456106,
+        "avg_tokens_count_battery":28.25,
+        "avg_battery_consumption_mWh":0.0,
+        "avg_mWh_per_token":0.0
+    }
+}
